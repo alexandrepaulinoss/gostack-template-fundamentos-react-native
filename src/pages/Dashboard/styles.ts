@@ -39,7 +39,7 @@ export const Product = styled.View`
 
 export const ProductImage = styled.Image`
   height: 122px;
-  width: 122px;
+  width: 190px;
   align-self: center;
 `;
 
